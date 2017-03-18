@@ -27,7 +27,10 @@
     "uniqCompNum": 87,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -61,7 +64,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1498.jpg",
+            "bgImage": "file:///C:/Users/Administrator/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1498.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -414,7 +417,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>LSPC Mansion, Mayuri Nagar, Miyapur, <br>Hyderabad, Telangana 500049, India<strong>Contacts</strong><strong><br></strong><br>\nEmail: mktg.rrbc@gmail.com<br>\nPhone: 8885583926",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b><a href=\"http://rrhrbc.blogspot.in\" target=\"_blank\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\" target=\"_blank\"><b>SOROKASOFT X</b></a><a href=\"http://sorokasoft.com/transformed/#\"><b></b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b>RAJARAJESHWARI BUSINESS CONSULTANTS<a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
           "_tags": [
@@ -452,7 +455,7 @@
           },
           "text1": "<strong>Address</strong><br>Acorn Embedded Systems Private Limited<br>LSPC Mansion<br>3-201, HIG,<br>HUDA, Mayuri Nagar<br>Lane Opp. Lakshmi SBI Homes,<br>Miyapur, Near Nizampet,<br>Hyderabad<br>Telangana State<br>INDIA<br>",
           "text2": "<strong>Contacts</strong><br>email:-prashant_g@sorokasoft.com<br>\nPhone: +91-8885583926<br><br>",
-          "text3": "<p><strong>Links</strong><br><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
+          "text3": "<p><strong>Links</strong><br><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
         },
         {
           "_tags": [
@@ -670,7 +673,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/business-associate-2000x976.jpg",
+            "bgImage": "file:///C:/Users/Administrator/AppData/Local/Mobirise.com/Mobirise/projectData/business-associate-2000x976.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -902,7 +905,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>LSPC Mansion, Mayuri Nagar, Miyapur, <br>Hyderabad, Telangana 500049, India<strong>Contacts</strong><strong><br></strong><br>\nEmail: mktg.rrbc@gmail.com<br>\nPhone: 8885583926",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b><a href=\"http://rrhrbc.blogspot.in\" target=\"_blank\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\" target=\"_blank\"><b>SOROKASOFT X</b></a><a href=\"http://sorokasoft.com/transformed/#\"><b></b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b>RAJARAJESHWARI BUSINESS CONSULTANTS<a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
           "_tags": [
@@ -936,7 +939,7 @@
           },
           "text1": "<strong>Address</strong><br>Acorn Embedded Systems Private Limited<br>LSPC Mansion<br>3-201, HIG,<br>HUDA, Mayuri Nagar<br>Lane Opp. Lakshmi SBI Homes,<br>Miyapur, Near Nizampet,<br>Hyderabad<br>Telangana State<br>INDIA<br>",
           "text2": "<strong>Contacts</strong><br>email:-prashant_g@sorokasoft.com<br>\nPhone: +91-8885583926<br><br>",
-          "text3": "<p><strong>Links</strong><br><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
+          "text3": "<p><strong>Links</strong><br><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"www.acornembeddedsystems.com\" target=\"_blank\"><b></b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
         }
       ]
     },
