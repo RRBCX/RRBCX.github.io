@@ -127,7 +127,7 @@
           },
           "title1": "",
           "subtitle1": "<span style=\"font-style: normal;\"><b>Embedded Systems</b></span>",
-          "caption1": "We an Engineering House that has been formed to provide complete solutions for Automation, Electrical and Instrumentation requirements of the various industries. We have strong experienced team in Engineering, Design and Implementation of Electrical, Automation and Software Applications.Our core activities are Turnkey Projects of Automation, Electrical and SCADA Software Development.",
+          "caption1": "We an Engineering House that has been formed to provide complete solutions &nbsp;for Automation, Electrical and Instrumentation requirements of the various industries. We have strong experienced team in Engineering, Design and Implementation of Electrical, Automation and Software Applications.Our core activities &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;are Turnkey Projects of Automation, Electrical and SCADA Software Development.",
           "button1": "<a data-app-btn=\"true\" href=\"http://acornembeddedsystems.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
@@ -141,8 +141,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Defence Quality Service",
-          "subtitle2": ".",
+          "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Defence Quality Service</span><br>",
+          "subtitle2": "",
           "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Our Platform offers full system engineering solutions covering Mechanical, Electro-Mechanical, Optics, Electrical, Electronics (Analog, Digital, Embedded, RF, Microwave, Antenna . &nbsp;Our concept of combining a comprehensive selection of leading embedded computer products with an extensive experience in HW/SW design and development makes us a unique player in the marketSystems), Software, </span><br><span style=\"font-size: 1rem; line-height: 1.5;\">IT Systems.</span><br>",
           "button2": "<a data-app-btn=\"true\" href=\"http://sorokasoft.com/transformed/#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
@@ -157,10 +157,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Electronic Warfare Systems",
+          "title3": "Electronic Warfare Systems<br>",
           "subtitle3": "",
-          "caption3": "we handle Electronic System Hardware &amp; Software Design for Automation Applications. We offer software &amp; hardware solutions for Industrial, Scientific, Defence, Electronic Warfare (EW), Automatic Test Equipment (ATE), Test / Process Automation Sectors. Our Professional Staff is always at your service. We believe in constant improvement and enhancement of our services to better serve our clients. Leverage our On-Demand Support and flexible Maintenance Support Services",
-          "button3": "<a data-app-btn=\"true\" href=\"https://rrbconline.in\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "we handle Electronic System Hardware Software Design for Automation Applications. We offer software &amp; hardware solutions for Industrial, Scientific, Defence, Electronic Warfare (EW), Automatic Test Equipment (ATE), Test / Process Automation Sectors. Our Professional Staff is always at your service. We believe in constant improvement and enhancement of our services to better serve our clients. Leverage our On-Demand Support and flexible Maintenance Support Services",
+          "button3": "<a data-app-btn=\"true\" href=\"http://rrhrbc.blogspot.in/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/automation-600x399.jpg",
@@ -414,7 +414,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>LSPC Mansion, Mayuri Nagar, Miyapur, <br>Hyderabad, Telangana 500049, India<strong>Contacts</strong><strong><br></strong><br>\nEmail: mktg.rrbc@gmail.com<br>\nPhone: 8885583926",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b><a href=\"http://rrhrbc.blogspot.in/\" target=\"_blank\">RAJARAJESHWARI BUSINESS CONSULTANTS</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b>RAJARAJESHWARI BUSINESS CONSULTANTS<a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
           "_tags": [
@@ -452,7 +452,7 @@
           },
           "text1": "<strong>Address</strong><br>Acorn Embedded Systems Private Limited<br>LSPC Mansion<br>3-201, HIG,<br>HUDA, Mayuri Nagar<br>Lane Opp. Lakshmi SBI Homes,<br>Miyapur, Near Nizampet,<br>Hyderabad<br>Telangana State<br>INDIA<br>",
           "text2": "<strong>Contacts</strong><br>email:-prashant_g@sorokasoft.com<br>\nPhone: +91-8885583926<br><br>",
-          "text3": "<strong>Links</strong><br>Acorn Embedded Systems"
+          "text3": "<p><strong>Links</strong><br><a href=\"www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
         },
         {
           "_tags": [
@@ -597,7 +597,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rajarajeshwari Business Consultants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://rrhrbc.blogspot.in/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/\" target=\"_blank\">ABOUT US</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/p/embedded-computing.html\" target=\"_blank\">SERVICE AND SUPPORT</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">PROJECTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://rrhrbc.blogspot.in/p/about-us.html\" aria-expanded=\"false\" target=\"_blank\">OUR VISION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://rrhrbc.blogspot.in/p/products.html\" aria-expanded=\"false\" target=\"_blank\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/p/contact-us.html\" target=\"_blank\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://sites.google.com/a/sorokasoft.com/home-page/downloads\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://rrhrbc.blogspot.in/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/\" target=\"_blank\">ABOUT US</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/p/embedded-computing.html\" target=\"_blank\">SERVICE AND SUPPORT</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">PROJECTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://rrhrbc.blogspot.in/p/about-us.html\" aria-expanded=\"false\" target=\"_blank\">OUR VISION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://rrhrbc.blogspot.in/p/products.html\" aria-expanded=\"false\" target=\"_blank\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://rrhrbc.blogspot.in/p/contact-us.html\" target=\"_blank\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://rrhrbc.blogspot.in/p/downloads.html\" target=\"_blank\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -644,7 +644,7 @@
           },
           "title": "",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">RAJARAJESHWARI BUSINESS CONSULTANTS</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">We Put your First And Keep you Ahead Reaching The Frontiers Of Excellence&nbsp;</span><br>Let Us Help You Gain Greater Value For your Business<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; RRBC &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://http://www.acornembeddedsystems.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACORN &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://www.techsysautomationpltd.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TECHSY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESSENCE</a> "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; RRBC &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://www.acornembeddedsystems.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACORN &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://www.techsysautomationpltd.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TECHSY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESSENCE</a> "
         },
         {
           "_tags": [
@@ -687,7 +687,7 @@
           },
           "title": "RAJARAJESHWARI BUSINESS <br>CONSULTANTS",
           "text": "<br><br><br><br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">We Put your First And Keep you Ahead Reaching The Frontiers Of Excellence &nbsp; &nbsp; &nbsp; &nbsp;</span><br>&nbsp; &nbsp;Let Us Help You Gain Greater Value For your Business                                                                         &nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://techsysautomationpltd.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TECHSYS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://rrbconline.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RRBC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://acornembeddedsystems.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACORN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESSENCE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://techsysautomationpltd.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TECHSYS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RRBC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.acornembeddedsystems.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACORN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESSENCE</a>"
         }
       ]
     },
@@ -902,7 +902,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>LSPC Mansion, Mayuri Nagar, Miyapur, <br>Hyderabad, Telangana 500049, India<strong>Contacts</strong><strong><br></strong><br>\nEmail: mktg.rrbc@gmail.com<br>\nPhone: 8885583926",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b><a href=\"http://rrhrbc.blogspot.in/\" target=\"_blank\">RAJARAJESHWARI BUSINESS CONSULTANTS</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><b>RAJARAJESHWARI BUSINESS CONSULTANTS<a class=\"text-white\" href=\"https://mobirise.com/\"></a></b></li><li><b><a href=\"https://sites.google.com/a/sorokasoft.com/home-page/projects\" target=\"_blank\">SOROKASOFT </a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></b></li><li><a href=\"http://sorokasoft.com/transformed/#\"><b>SOROKASOFT X</b></a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
           "_tags": [
@@ -936,7 +936,7 @@
           },
           "text1": "<strong>Address</strong><br>Acorn Embedded Systems Private Limited<br>LSPC Mansion<br>3-201, HIG,<br>HUDA, Mayuri Nagar<br>Lane Opp. Lakshmi SBI Homes,<br>Miyapur, Near Nizampet,<br>Hyderabad<br>Telangana State<br>INDIA<br>",
           "text2": "<strong>Contacts</strong><br>email:-prashant_g@sorokasoft.com<br>\nPhone: +91-8885583926<br><br>",
-          "text3": "<strong>Links</strong><br>Acorn Embedded Systems"
+          "text3": "<p><strong>Links</strong><br><a href=\"www.acornembeddedsystems.com/\" target=\"_blank\"><b>Acorn Embedded Systems</b></a><a href=\"http://www.acornembeddedsystems.com/\" target=\"_blank\"><b></b></a></p>"
         }
       ]
     },
